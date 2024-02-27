@@ -30,3 +30,8 @@ try:
 
 except requests.exceptions.RequestException as e:
     print("Error fetching data:", e)
+
+
+# get events I want
+# start/end time 
+# email it to myself/ put in spreadsheet - based on artist/genre/etc? 
